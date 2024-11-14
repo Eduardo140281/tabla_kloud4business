@@ -1,0 +1,10 @@
+2024-03-06 16:19:44,523 - Kuadro - ERROR - Kuadro Error
+Traceback (most recent call last):
+  File "source\kuadro\run.py", line 192, in <module>
+  File "source\kuadro\run.py", line 185, in launch_kuadro
+SystemExit: 0
+2024-03-06 16:19:49,207 - Kuadro - ERROR - Kuadro Error
+Traceback (most recent call last):
+  File "source\kuadro\run.py", line 192, in <module>
+  File "source\kuadro\run.py", line 185, in launch_kuadro
+SystemExit: 0
